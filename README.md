@@ -15,6 +15,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
   - **Frameworks & Tools**: TensorFlow, PyTorch, Streamlit, GitBash, SQL, MongoDB, cv2, Seaborn, Matplotlib, Langchain, etc.
   - **Other Skills**: Data Analysis, Machine Learning, Deep Learning, CNNs, YOLO, LLMs, GANs, etc.
 
+- **Hobbies**:
+  - Sketching, Gaming
+
 ## 💼 Interests
 - **Artificial Intelligence & Machine Learning**: Exploring the boundaries of AI and its applications.
 - **Data Science**: Analyzing and making sense of large datasets.
